@@ -1,0 +1,13 @@
+python-dotenv
+beautifulsoup4
+langchain
+langchainhub
+langchain-openai
+langchain-community
+langgraph
+tavily-python
+pytest
+chromadb
+tiktoken
+langchain-chroma
+langchain-tavily
